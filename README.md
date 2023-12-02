@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misctyler&label=Profile%20views&color=0e75b6&style=flat" alt="misctyler" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misctyler" alt="misctyler" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/itstylerirl" target="blank"><img src="https://img.shields.io/twitter/follow/itstylerirl?logo=twitter&style=for-the-badge" alt="itstylerirl" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity, Python**
